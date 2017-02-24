@@ -4,4 +4,5 @@ Play with p5.js and processing.js
 See gibhub.com/Rainbow-Code/p5.js/9.6_p5.js_minimum_spanning_tree/
 https://github.com/CodingTrain/Rainbow-Code
 Continue to use github as a text editor (for personal projects)
-PAY for github (lock down access levels)
+Get interested in some front end dev topics, make some web projects
+Make it look neat and do something interesting, i.e. query a service or use an API/SDK to solve a problem
