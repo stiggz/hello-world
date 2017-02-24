@@ -1,0 +1,7 @@
+Build twitter bot as quickly as possible in multiple languages - JS, ruby/rails, perl, etc
+Host on cloud - track errors and retweets - DO NOT include @ in tweets to avoid pissing off people- bad bot ettiquite
+Play with p5.js and processing.js 
+See gibhub.com/Rainbow-Code/p5.js/9.6_p5.js_minimum_spanning_tree/
+https://github.com/CodingTrain/Rainbow-Code
+Continue to use github as a text editor (for personal projects)
+PAY for github (lock down access levels)
